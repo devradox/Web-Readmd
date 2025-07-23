@@ -1,11 +1,11 @@
-# 🚀 Personal Web & Admin Panel – The Ultimate Portfolio & CMS Solution
+# 🚀 Personal Web & Admin Panel – The Ultimate Portfolio
 
 **Transform your online presence with a stunning, modern personal website and a powerful admin panel.**  
 Built with Next.js, TypeScript, Tailwind CSS, and Supabase, this solution gives you everything you need to showcase your work, manage your content, and engage with your audience—all with zero coding required after setup.
 
 ---
 
-## 💡 Why Choose This Solution?
+## 💡 Why Choose This?
 
 - **All-in-One:** Website + Admin Panel + Database + File Storage—no third-party CMS or plugins needed.
 - **Instant Updates:** Add, edit, or remove projects, content, and site settings in real time—no redeploys!
@@ -34,7 +34,6 @@ Built with Next.js, TypeScript, Tailwind CSS, and Supabase, this solution gives 
 
 - **Frontend:** [Next.js](https://nextjs.org/), [TypeScript](https://www.typescriptlang.org/), [Tailwind CSS](https://tailwindcss.com/)
 - **Backend & DB:** [Supabase](https://supabase.com/) (Postgres, Auth, Storage)
-- **UI:** [Radix UI](https://www.radix-ui.com/), [Lucide Icons](https://lucide.dev/)
 
 ## 🌐 Live Demo
 
